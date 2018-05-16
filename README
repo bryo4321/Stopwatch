@@ -1,0 +1,1 @@
+This is a simple stopwatch made with Java. Each button press adds a second up to 99 seconds, then it counts down. It switches between states for ticking, alarming, and paused.
