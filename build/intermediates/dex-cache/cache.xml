@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/89b616d0b85a7f01718ce8c2bb35eff4c535c332/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c93d8af54eec1120dcc13a6a5f7773a8ef26da13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/ef8008cb2a02e86dfc4a8400388b4d80cfe8e6dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d75e21556c6b34dcb6604dec7dde4754312552a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/f4280dd9d53583781ef6376c16298aeb62358664/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f907b75864bf18a54b1dde978c7d6454bd4be83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_771de7c3bb16aa24e188136bf201ccd0e1f9f6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efe81984d9646292b3121664d4bddb6a3ff826bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/0ade829df6e7c5632e77bcca8b19513d40950b22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_644f308d338e0fa12351315d03eb81d78abdab2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/bd7ff2d2bceee4cdc7168fd44da4a3242615e1be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65d346d7edf4b2046448f7cb6c4f9578aad5c124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/346e5bea3cb750f108ba9cf22e60afd5b2d81d67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afe68e8e1b21af99e8f1062d75ef8241a73976a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/ac6eb92da5bd9ed72765c24fbf3642c8ac23d493/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_688bfe4d060d4810841858939466e37f9db031c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/c1b19dee59ee8e9c0fdce1a3cd72f67d4e4f68f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bb3a124c83fdf8afa0f21f0d0c678805e143088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_e1cbc52d508b8696342d04aed46ce2c0e275ec4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e0b0af4da993d64451bed3ef3a1ad75efd01f4f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77ba2dce5c4b1f5d6b9b0ad14746861244cbda6">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65ba34c6846add7e4512540c61fa61fd67d291cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/dbf40128c96b9628d6b18067947f2df86f00efa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bae92fe0ff10938482b14a2175b229928e594c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/076e112d675940865a9b6a51d3830ea48ff6b6a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71863d48df0bc55b6bc22f3208abc1b495c8b484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/55a61a8b971badd384310d8f134de5f3be2d71d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c94be6587bcbfb2cff49e29c83c4b5e4c2b78aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.android/build-cache/963ab1a3754997b98766f08665bce23ec2b0ab23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a5e2395781b168504ffa761c54440602b8c9ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bryo/.gradle/caches/modules-2/files-2.1/net.sourceforge.streamsupport/streamsupport/1.5.2/e33067a94175274016b8dfeee58c18a24567f9d8/streamsupport-1.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e33067a94175274016b8dfeee58c18a24567f9d8">
+        <dex dex="/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10/streamsupport-1.5.2_53a66f9000f2de867b0676ce6606b38fe7030bde/classes.dex" />
+    </item>
+
+</items>

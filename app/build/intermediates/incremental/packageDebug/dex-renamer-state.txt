@@ -1,0 +1,7 @@
+#Thu Apr 13 14:04:57 CDT 2017
+base.0=/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65ba34c6846add7e4512540c61fa61fd67d291cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efe81984d9646292b3121664d4bddb6a3ff826bc/classes.dex
+base.1=/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efe81984d9646292b3121664d4bddb6a3ff826bc
+file.0=/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65ba34c6846add7e4512540c61fa61fd67d291cc/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/bryo/.android/build-cache/f4280dd9d53583781ef6376c16298aeb62358664/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/bryo/.android/build-cache/f4280dd9d53583781ef6376c16298aeb62358664/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/bryo/.android/build-cache/f4280dd9d53583781ef6376c16298aeb62358664/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/bryo/Documents/cs313sp17group2p4/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/bryo/.android/build-cache/f4280dd9d53583781ef6376c16298aeb62358664/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
